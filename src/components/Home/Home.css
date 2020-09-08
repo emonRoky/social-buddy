@@ -1,0 +1,9 @@
+.post-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.comments-container{
+    padding-top: 40px;
+}
